@@ -293,7 +293,7 @@ background: #404BBF;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-app:hover,
-.social-app:focus{
+.social-app:focus {
     background-color: #404bbf;
 }
 .app-icon{
@@ -429,7 +429,7 @@ width: 40px;
         transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-app-foot:hover,
-.social-app-foot:focus{
+.social-app-foot:focus {
     background-color: #31D0AA;
 }
 .app-list-foot{
